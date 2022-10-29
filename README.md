@@ -1,8 +1,8 @@
 # Jmeter-Volume-Testing
 ## :rocket: The steps taken to construct this project:
-:arrow_right: JDBC connection is configured by connecting a specific Database where there is pre-existing datas.
-:arrow_right: JDBC driver class "com.mysql.jdbc.Driver" is configured.
-:arrow_right: mysql-connector-java is put in the lib folder of apache-jmeter.
+:arrow_right: JDBC connection is configured by connecting a specific Database where there is pre-existing datas
+:arrow_right: JDBC driver class "com.mysql.jdbc.Driver" is configured
+:arrow_right: mysql-connector-java is put in the lib folder of apache-jmeter
 
 - Database is tested by **100 users** concurrently reading info in **60s**.
 ![100 users reading info in 60 s](https://github.com/Tonmoy61/Jmeter-Volume-Testing/blob/main/image/image1.png)
