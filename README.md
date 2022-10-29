@@ -1,5 +1,6 @@
 # Jmeter-Volume-Testing
-### :rocket: The steps taken to construct this project:
+### :red_circle: The steps taken to construct this project:
+
 - JDBC connection is configured by connecting a specific Database where there is pre-existing datas.
 - JDBC driver class "com.mysql.jdbc.Driver" is configured.
 - mysql-connector-java is put in the lib folder of apache-jmeter.
