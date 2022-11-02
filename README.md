@@ -1,4 +1,4 @@
-<h1 style="color:blue", align="center">Jmeter-Volume-Testing</h1>
+<h1 align="center">Jmeter-Volume-Testing</h1>
 
 
 ### :heavy_check_mark: The steps taken to construct this project:
