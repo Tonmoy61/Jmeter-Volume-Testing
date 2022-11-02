@@ -1,12 +1,4 @@
-
-
-<!DOCTYPE html>
-<html>
-<body>
 <h1 align="center">Jmeter-Volume-Testing</h1>
-</body>
-</html>
-
 
 ### :heavy_check_mark: The steps taken to construct this project:
 
