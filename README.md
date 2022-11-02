@@ -3,12 +3,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-
 <h1 align="center">Jmeter-Volume-Testing</h1>
-
-<p style="color:blue;">I am blue</p>
-
-
 </body>
 </html>
 
